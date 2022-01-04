@@ -16,7 +16,7 @@
 - [**D**ependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 
 
-This is a project has code snippets which show how applying SOLID principles effects code design.
+This project has code snippets which show how applying SOLID principles effects code design.
 
 For each principle, there are two files in Sources folder;
 
