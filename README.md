@@ -18,10 +18,10 @@
 
 This project has code snippets which show how applying SOLID principles effects code design.
 
-For each principle, there are two files in Sources folder;
+For each principle, there are two folders :
 
- - **Before.XX** files: A default implementation of sample case
+ - **Before** files: A default implementation of sample case.
 
- - **After.XX** files: Related Principle applied version of the case
+ - **After** files: Related Principle applied version of the case.
 
 to show the difference in simple and clear way.
